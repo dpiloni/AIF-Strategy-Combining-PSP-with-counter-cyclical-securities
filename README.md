@@ -6,17 +6,20 @@
 The idea of the strategy comes from the merger of the standard framework of Asset/Liability Management, i.e. combining a performance-seeking portfolio (PSP) with a liability-hedging portfolio (LHP), with the so-called ***Black-swan strategies***, whose goal is to generate profits during market crashes.
 
 ---
-#### The Framework
 
-1.
-2.
+### The Framework
+
+1. Select the performance-seeking portfolio
+2. Identify the anti-cyclical portfolio (ACP) respective to the PSP and define the asset allocation
 
 ---
 
 ## Data
 
-In this simplified application I use as PSP the Regularization strategy posted here
-The data is collected for the period January 2005-Decmber 2020, while the backtesting period is January 2008-December 2020. 
+* In this simplified application I use as PSP the Regularization strategy posted here.
+* The data is collected for the period January 2005-Decmber 2020, while the backtesting period is January 2008-December 2020. 
+* For the identification of the ACP, the key feature is the negative correlation, especially during market crashes.
+As you can see below, the ACP identified shows a strong negative overall correlation, which becomes even better if we compute the dynamic correlation time series (rolling window 36 months):
 
 
 
