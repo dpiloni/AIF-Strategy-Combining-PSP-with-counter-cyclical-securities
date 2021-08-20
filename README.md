@@ -1,1 +1,1 @@
-# AIF-Strategy-Combining-PSP-with-anticyclical-securities
+# AIF Strategy: Combining PSP with anticyclical portfolio
