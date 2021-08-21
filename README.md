@@ -3,14 +3,15 @@
 ***NOTE: CODE AVAILABLE UPON REQUEST***
 
 ## Introduction 
-The idea of the strategy comes from the merger of the standard framework of Asset/Liability Management, i.e. combining a performance-seeking portfolio (PSP) with a liability-hedging portfolio (LHP), with the so-called ***Black-swan strategies***, whose goal is to generate large profits during market crashes.
+The idea of the strategy comes from the merger of the standard framework of Asset/Liability Management, i.e. combining a performance-seeking portfolio (PSP) with a liability-hedging portfolio (LHP), with the so-called **Black-swan strategies** whose goal is to generate large profits during market crashes.
 
 ---
 
 ### The Framework
 
 1. Select the performance-seeking portfolio
-2. Identify the counter-cyclical portfolio (CCP) respective to the PSP and define the asset allocation
+2. Identify the counter-cyclical portfolio (CCP) respective to the PSP
+3. Define the asset allocation policy
 
 ---
 
@@ -31,9 +32,9 @@ As you can see below, the CCP identified shows a strong negative overall correla
 
 ![summary stats](https://user-images.githubusercontent.com/78954578/130289616-e1ca64f6-8423-4061-a0c2-eeea789580d4.png)
 
-* 
-* 
-* 
+* The strategy is able to achieve a higher perfrormance than the PSP and the market, both in terms of risk-adjusted one (Sharpe ratio) and extra-performance, **with an annualized alpha of 21.3%**
+* Benefits come also in form of *left tail risk reduction*: lower maximum drawdown, VaR and CVaR than the PSP and the market
+* By visualizing the returns histogram, it's possible to appreciate the combination of high variance, positive skewness and excess of kurtosis:
 
 ![hist rets](https://user-images.githubusercontent.com/78954578/130289740-20385f9f-b29d-485a-bb05-bd8fd1905e71.png)
 
@@ -41,13 +42,13 @@ As you can see below, the CCP identified shows a strong negative overall correla
 
 ![P L](https://user-images.githubusercontent.com/78954578/130289858-3fd9b662-6ccf-49d7-a88d-c808ace020f5.png)
 
-* Starting from a 1000$ capital, .
+* Starting from a 1000$ capital, the cumulative profits of the strategy over 13 years (2008-2020) would have reached more than 21.600$, not so far from doubling PSP's final wealth of 12.800$.
 
 ### Yearly performance:
 
 ![barplot](https://user-images.githubusercontent.com/78954578/130290191-08f9550c-1e18-40ef-9b81-93045cfc9b63.png)
 
-* A desirable characteristic of an active fund is the "beat the market" ability: ideally, a manager asks for a higher management fee than a passive strategy to perform better than the market. In this case, if we define a new metric, the Hit Ratio, as the percentage number of periods a portfolio beats the benchmark, the strategy achieves a descrete performance of 61,5% (8 out of 13 years).
+* By defining the Hit Ratio as the .
 
 
 ## Conclusions
