@@ -3,7 +3,7 @@
 ***NOTE: CODE AVAILABLE UPON REQUEST***
 
 ## Introduction 
-The idea of the strategy comes from the merger of the standard framework of Asset/Liability Management, i.e. combining a performance-seeking portfolio (PSP) with a liability-hedging portfolio (LHP), with the so-called **Black-swan strategies** whose goal is to generate large profits during market crashes.
+The idea of the strategy comes from the merger of the standard practice of Asset/Liability Management, i.e. combining a performance-seeking portfolio (PSP) with a liability-hedging portfolio (LHP), with the so-called **Black-swan strategies** whose goal is to generate large profits during market crashes.
 
 ---
 
@@ -34,7 +34,7 @@ The selected CCP shows a strong negative overall correlation of -0.54%, which be
 
 * The strategy is able to achieve a higher perfrormance than the PSP and the market, both in terms of risk-adjusted one (Sharpe ratio) and extra-performance, **with an annualized alpha of 21.3%**
 * Benefits come also in form of *left tail risk reduction*: lower maximum drawdown, VaR and CVaR than the PSP and the market
-* By visualizing historical returns' *pdf*, it's possible to appreciate the combination of high variance, positive skewness and excess of kurtosis:
+* By visualizing historical returns *pdf*, it's possible to appreciate the combination of high variance, positive skewness and excess of kurtosis:
 
 ![hist rets](https://user-images.githubusercontent.com/78954578/130289740-20385f9f-b29d-485a-bb05-bd8fd1905e71.png)
 
