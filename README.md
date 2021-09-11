@@ -55,5 +55,5 @@ The selected CCP shows a strong negative overall correlation of -0.54%, which be
 
 ## Conclusions
 
-* The strategy is able to deliver a greater Sharpe ratio and expected returns than the market and the PSP, with an astonishing annualized alpha of 21.3% over the period 2008-2020.
+* The strategy is able to deliver a greater Sharpe ratio and expected returns than the market and the PSP, with an annualized alpha of 21.3% over the period 2008-2020.
 * This is just an example of a broader portfolio management framework which could be applied in Asset Management industry: alternatives from the PSP selection to asset allocation policy are almost infinite.
